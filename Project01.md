@@ -1,8 +1,5 @@
 # Project01
 
-<img src=".jpeg" alt="Project1"
-     title="Project1" />
-
 ### Project Back Log
 
 | User Story  | Description                  | Points | Due Date | Mo | Tu | We | Th | Fr |
@@ -14,6 +11,9 @@
 | 5           | Amount of Lives (Feedback)   | 2      |22 Sep    |    |    |    |    |    |
 | Total Points| 9                 |
 
-
+<span style="color:red">red writing</span>
 ### Sprint Back Log
 
+
+<img src=".jpeg" alt="Project1"
+     title="Project1" />
