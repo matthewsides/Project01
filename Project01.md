@@ -1,5 +1,7 @@
 # Project01
 
+<img src=".jpeg" alt="Project1"
+     title="Project1" />
 
 ### Project Back Log
 
@@ -15,6 +17,3 @@
 
 ### Sprint Back Log
 
-
-<img src="turtleneck-sweater.jpeg" alt="Photograph of a Turtleneck Sweater"
-     title="Photograph of a Turtleneck Sweater" />
