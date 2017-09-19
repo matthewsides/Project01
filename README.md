@@ -10,3 +10,4 @@
 | 3           | Initiate and End the Game    | 1      |22 Sep    |    |    |    |    |    |
 | 4           | Be able to move              | 3      |22 Sep    |    |    |    |    |    |
 | 5           | Amount of Lives (Feedback)   | 2      |22 Sep    |    |    |    |    |    |
+| Total Points| 9                 |
