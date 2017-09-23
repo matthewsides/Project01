@@ -1,0 +1,118 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <meta charset="utf-8">
+
+    <style>
+        
+  .gameviewport {
+                                                                position: absolute;
+                                                                left: 50px;
+                                                                top: 50px;
+                                                                border: 1px solid #000000;
+                                                                background-color: 
+//the code below  the style tag loads and loops music within the browser
+    </style>
+
+<embed src="http://soundimage.org/wp-content/uploads/2017/05/Hypnotic-Puzzle.mp3" loop=true ></embed>
+
+  Your browser does not support the audio element.
+
+
+   <script>
+                               function draw() {
+                              	var canvas = document.getElementById('mytraceball');
+                                	if (canvas.getContext) {
+                                        var ctx = canvas.getContext('2d');
+//first two set the rect border and inside positioning to 425 , 225 on screen, whilst the last two numbers or values set the width and height or overall size
+                                        ctx.fillRect(425, 225,30, 30);
+                                        ctx.clearRect(0, 0, 0, 0);
+                                        
+		   
+		
+
+                                                                }
+                                                }
+ 					
+                                </script>
+
+  </head>
+  <body>
+    <canvas id="myCanvas" class="gameviewport" width="800" height="400"> </canvas>
+    <script>
+//code block below sets the string to zero and displays the text within the canvas which show the cordinates of the mouse on screen (features of text)
+      function writeMessage(canvas, message) {
+        var context = canvas.getContext('2d');
+        context.clearRect(0, 0, canvas.width, canvas.height);
+        context.font = '12pt Calibri';
+        context.fillStyle = 'black';
+        context.fillText(message, 10, 25);
+      }
+//getMousePos() method  returns the mouse coordinates based on the position of the client mouse and the position of the canvas obtained from the getBoundingClientRect() method of the window object.
+      function getMousePos(canvas, evt) {
+        var rect = canvas.getBoundingClientRect();
+        return {
+          x: evt.clientX - rect.left,
+          y: evt.clientY - rect.top
+        };	
+      }
+      var canvas = document.getElementById('myCanvas');
+      var context = canvas.getContext('2d');
+// evt short for event 
+      canvas.addEventListener('mousemove', function(evt) {
+        var mousePos = getMousePos(canvas, evt);
+        var message = 'Mouse position: ' + mousePos.x + ',' + mousePos.y;
+        writeMessage(canvas, message);
+      }, false);
+    </script>
+
+
+ <canvas id="mytraceball" class="GameViewPort" width="500" height="500"> 
+// had to create a seperate enitity or line of code for the square otherwise it conflicts with the mouse cord displaying and locating function
+                </canvas>
+
+<script> 
+
+
+</script>
+                                <script>
+// executes the code defining the squares features presenting it on the canvas and on screen      
+                                                draw();
+				</script>
+																			
+<script>
+//add onto cords of the square to give impression of movement
+//need two seperate if loops for x and y so that it may move 4 ways left, right, up and down
+
+var context;
+var c = document.getElementById("mytraceball");
+var xsquare = c.getfillRect("425");
+for mousePos > xsquare +1
+else if mousePos < xsquare - 1
+
+if == 
+-1 life
+if lives ==0
+endgame
+else loop
+<script>
+
+function lives () {
+
+setloop = true
+var lives = 3
+var cx = document.getElementById("mytraceball");
+for mousePos = cx { lives -1}
+else if lives = 0 
+end()
+ 
+</script>
+
+https://simonsarris.com/canvas-moving-selectable-shapes/
+
+
+</script>																			
+   																		
+  </body>
+</html>
+      
