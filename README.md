@@ -12,7 +12,7 @@
 | Total Points| 9                 |
 
 
-### Sprint Back Log
+
 
 
 <img src=".jpeg" alt="Project1"
