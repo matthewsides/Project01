@@ -32,12 +32,11 @@
 
 3. Target System ..........
 
-4. Development System ..........
+4. Specification ..........
 
+4.1 High Level Description ..........
 
-5. Specification ..........
-
-5.1 Concept
+5. Project User Stories
 
 
 
@@ -62,18 +61,27 @@ N/A
 ## 3. Target System
 TraceBall will be produced for the following platforms: Windows all versions running on HTML 5 (Internet Browser), Chrome and Explorer, written in Java Script though the ID Notepad. This Documentation is primary concerned with the internet browsers chrome and explorer though maybe expanded and branch out to other browsers at a later date.
 
-## Specification 
+## 4. Specification 
 
-### High Level Description 
+### 4.1 High Level Description 
 
 A non-playing character NPC (that is a character controlled by the computer) targets the users mouse position as the player moves across the screen, the game is over once the NPC touches the players mouse position 3 times. 
+
+
+### User Stories
+
+I would like to be able to the view the game within a browser. -  View in Browser  
+I would like to be able to see and have the NPC model (square) follow me across a screen. - NPC follow me  
+I would like to be able to end the game. - Initiate and End the Game 
+I would like to be able to move across a screen. - Be able to move    
+I would like to be able to get feedback on the amount of lives I have concurrent to whats happening on screen. - Amount of Lives (Feedback) 
 
 ### Project Back Log
 
 | User Story  | Description                  | Points | Due Date | Mo | Tu | We | Th | Fr |
 |-------------|------------------------------|--------|----------|----|----|----|----|----|
 | 1           | View in Browser              | 2      |22 Sep    |    |    |    |    |    |
-| 2           | See the NPC and Player Model | 1      |22 Sep    |    |    |    |    |    |
+| 2           | NPC follow me                | 1      |22 Sep    |    |    |    |    |    |
 | 3           | Initiate and End the Game    | 1      |22 Sep    |    |    |    |    |    |
 | 4           | Be able to move              | 3      |22 Sep    |    |    |    |    |    |
 | 5           | Amount of Lives (Feedback)   | 2      |22 Sep    |    |    |    |    |    |
