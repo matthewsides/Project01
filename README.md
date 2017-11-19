@@ -58,9 +58,12 @@ Things that have been discussed in a meeting are presented in this document with
 
 Things that have not been offically agreed on but which are suggested by the author are presented with asterisks, like this (*),being marked as omitted until it has been agreed upon that it may be of use or implemented.
 
+## 2. References
 
+N/A
 
-
+## 3. Target System
+TraceBall will be produced for the following platforms: Windows all versions running on HTML 5 (Internet Browser), Chrome and Explorer, written in Java Script though the ID Notepad. This Documentation is primary concerned with the internet browsers chrome and explorer though maybe expanded and branch out to other browsers at a later date.
 
 ### Project Back Log
 
