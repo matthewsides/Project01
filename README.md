@@ -42,6 +42,26 @@
 
 5.1 Concept
 
+
+
+## 1. Introduction
+
+This document specifies a design for the conceptual features and mechanics (gameplay) of a game with the provisional title “CountDown”. It is based on and around elements discussed in various meetings and the continually running televised game show CountDown, the meetings held since 14th November 2017, between or involving Matthew Sides.
+
+### 1.1 Scope
+
+This documentation is intended to be read by programmers, artists and producers involved in the design implementation and testing of the video game rendition of CountDown.
+
+### 1.2 Type Conventions
+
+Things that have been discussed in a meeting are presented in this document with no asterisks.
+
+Things that have not been offically agreed on but which are suggested by the author are presented with asterisks, like this (*),being marked as omitted until it has been agreed upon that it may be of use or implemented.
+
+
+
+
+
 ### Project Back Log
 
 | User Story  | Description                  | Points | Due Date | Mo | Tu | We | Th | Fr |
