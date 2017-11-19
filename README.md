@@ -1,13 +1,13 @@
 # | Project1- TraceBall |
      Version 1.00
-     November 14, 2017
+     2017
      
 
 # Revision List
 
 | Version     | Author          | Date                 | Comments                       |
 |-------------|-----------------|----------------------|--------------------------------|
-| 1.00        |  Matthew Sides  | November 14, 2017    | Initial Version                |
+| 1.00        |  Matthew Sides  |              2017    | Initial Version                |
 |             |                 |                      |                                | 
 |             |                 |                      |                                | 
 |             |                 |                      |                                |
@@ -46,11 +46,11 @@
 
 ## 1. Introduction
 
-This document specifies a design for the conceptual features and mechanics (gameplay) of a game with the provisional title “CountDown”. It is based on and around elements discussed in various meetings and the continually running televised game show CountDown, the meetings held since 14th November 2017, between or involving Matthew Sides.
+This document specifies a design for the conceptual features and mechanics (gameplay) of a game with the provisional title “TraceBall” . It is based on elements found within a given brief specifying for a game based around a square following a mouse on screen.  
 
 ### 1.1 Scope
 
-This documentation is intended to be read by programmers, artists and producers involved in the design implementation and testing of the video game rendition of CountDown.
+This documentation is intended to be read by programmers, artists and producers involved in the design implementation and testing of the HTML internet game "TraceBall".
 
 ### 1.2 Type Conventions
 
