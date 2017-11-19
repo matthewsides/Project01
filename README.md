@@ -32,11 +32,8 @@
 
 3. Target System ..........
 
-3.1 Windows 10 ..........
-
 4. Development System ..........
 
-4.1 Software ..........
 
 5. Specification ..........
 
@@ -65,6 +62,12 @@ N/A
 ## 3. Target System
 TraceBall will be produced for the following platforms: Windows all versions running on HTML 5 (Internet Browser), Chrome and Explorer, written in Java Script though the ID Notepad. This Documentation is primary concerned with the internet browsers chrome and explorer though maybe expanded and branch out to other browsers at a later date.
 
+## Specification 
+
+### High Level Description 
+
+A non-playing character NPC (that is a character controlled by the computer) targets the users mouse position as the player moves across the screen, the game is over once the NPC touches the players mouse position 3 times. 
+
 ### Project Back Log
 
 | User Story  | Description                  | Points | Due Date | Mo | Tu | We | Th | Fr |
@@ -75,13 +78,6 @@ TraceBall will be produced for the following platforms: Windows all versions run
 | 4           | Be able to move              | 3      |22 Sep    |    |    |    |    |    |
 | 5           | Amount of Lives (Feedback)   | 2      |22 Sep    |    |    |    |    |    |
 | Total Points| 9                 |
-
-
-
-
-### High Level Description 
-
-A non-playing character NPC (that is a character controlled by the computer) targets the users mouse position as the player moves across the screen, the game is over once the NPC touches the players mouse position 3 times. 
 
 
 ### Algorithm - (Flowchart)
