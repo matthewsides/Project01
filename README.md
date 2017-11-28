@@ -1,4 +1,4 @@
-![Alt text](/relative/Project01-TraceBall/to/ FlowChartP1.jpg?raw=true "Optional Title")
+![Alt text](https://github.com/matthewsides/Project01-TraceBall/blob/master/TraceBallProject1Logo.png?raw=true "Optional Title")
 
      Version 2.00
      28 November 2017
