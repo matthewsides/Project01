@@ -136,6 +136,8 @@ The HTML page was first developed, whilst a canvas was thereafter defined, then 
 
 The IDE ( Integrated Development Environment) used was notepad, though notepad is a questionable IDE as it has no redefining features and doesnt provide any comprehensive facilities except an area to write code and save the file in relation to the type of code written.
 
+![Alt text](https://github.com/matthewsides/Project01-TraceBall/blob/master/IDENotepad.png?raw=true "Optional Title")
+
 ### Debugging process and debugging facilities in your chosen IDE
 
 The IDE or notepad does not have any debugging facilities,but the debugging proccess has to be done manually either scrolling through code to locate and fix the problem or using preset code that is indented into the program and debugs the code, finding the problem for it to be solved (fixed).
