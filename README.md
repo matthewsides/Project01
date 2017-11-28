@@ -72,10 +72,37 @@ TraceBall will be produced for the following platforms: Windows all versions run
 
 A non-playing character NPC (that is a character controlled by the computer) targets the users mouse position as the player moves across the screen, the game is over once the NPC touches the players mouse position 3 times. 
 
+### High Level Function Requirements
+
+Create Canvas
+
+Create 2 dimensional character
+
+Create NPC
+
+User mouse movement moves character
+
+Have NPC move to player position
+
+Character stays within Canvas
+
+Collision detection and display
+
+Start and stop game
+
+### High Level Non-Functional Requirements
+
+Canvas Colour
+
+Character and NPC shape
+
+Player and NPC colour
+
+Canvas size
 
 ### User Stories
 
-I would like to be able to the view the game within a browser. -  View in Browser  
+I would like to be able to view the game within a browser. -  View in Browser  
 I would like to be able to see and have the NPC model (square) follow me across a screen. - NPC follow me  
 I would like to be able to end the game. - Initiate and End the Game 
 I would like to be able to move across a screen. - Be able to move    
@@ -95,9 +122,8 @@ I would like to be able to get feedback on the amount of lives I have concurrent
 
 ### Algorithm - (Flowchart)
 
-<img src="Project01/FlowChartP1.jpg" alt="Project1"
-     title="Project1" />
-     
+![Alt text](https://github.com/matthewsides/Project01-TraceBall/blob/master/FlowChartP1.jpg?raw=true "Optional Title")
+
 ### Process of implementation Algorithm
 
 The HTML page was first developed, whilst a canvas was thereafter defined, then another square was defined within the canvas. Furthermore the mouse was is then required to be tracked on the screen to the canvas, whilst the cords of the square are also needed to be retrieved. The cords then need to be compared minus or adding onto the cords of the square if certain conditions are met, including a timer to ensure that the square movement is smooth and doesnt look like its teleporting around or about the page or screen. Inaddition the square and mouse then need to have a defined area or set cords or x and y with a conditional statement comparing them seeing whether the cords are eqaul or enroach on one another.Moreover adding at the end of the statement to minus lives, creating or defining a lives variable where if there is collision a life or numerical value is subtracted or taken away from the variable. While the code is held or indented within a loop where if certain conditions are met i.e: the user runs out of lives or the variable lives hits a certain defined numerical value the game ends.
