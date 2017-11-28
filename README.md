@@ -33,11 +33,15 @@
 
 [7] Specification 
 
-[8] High Level Description 
+[8]  High Level Non-Functional Requirements
 
-[9] Project User Stories
+[9] High Level Functional Requirements
 
-[10] Evaluation
+[10] User Stories
+
+[11] Project Backlog
+
+[12] Flow Chart
 
 
 ### [1] Introduction
@@ -68,11 +72,9 @@ TraceBall will be produced for the following platforms: Windows all versions run
 
 ### [7] Specification 
 
-### 4.1 High Level Description 
-
 A non-playing character NPC (that is a character controlled by the computer) targets the users mouse position as the player moves across the screen, the game is over once the NPC touches the players mouse position 3 times. 
 
-### High Level Function Requirements
+### [8] High Level Function Requirements
 
 Create Canvas
 
@@ -90,7 +92,7 @@ Collision detection and display
 
 Start and stop game
 
-### High Level Non-Functional Requirements
+### [9] High Level Non-Functional Requirements
 
 Canvas Colour
 
@@ -100,7 +102,7 @@ Player and NPC colour
 
 Canvas size
 
-### User Stories
+### [10] User Stories
 
 I would like to be able to view the game within a browser. -  View in Browser  
 I would like to be able to see and have the NPC model (square) follow me across a screen. - NPC follow me  
@@ -108,7 +110,8 @@ I would like to be able to end the game. - Initiate and End the Game
 I would like to be able to move across a screen. - Be able to move    
 I would like to be able to get feedback on the amount of lives I have concurrent to whats happening on screen. - Amount of Lives (Feedback) 
 
-### Project Back Log
+
+### [11] Project Back Log
 
 | User Story  | Description                  | Points | Due Date | Mo | Tu | We | Th | Fr |
 |-------------|------------------------------|--------|----------|----|----|----|----|----|
@@ -119,10 +122,11 @@ I would like to be able to get feedback on the amount of lives I have concurrent
 | 5           | Amount of Lives (Feedback)   | 2      |22 Sep    |    |    |    |    |    |
 | Total Points| 9                 |
 
-
-### Algorithm - (Flowchart)
+### [12] Algorithm - (Flowchart)
 
 ![Alt text](https://github.com/matthewsides/Project01-TraceBall/blob/master/FlowChartP1.jpg?raw=true "Optional Title")
+
+
 
 ### Process of implementation Algorithm
 
