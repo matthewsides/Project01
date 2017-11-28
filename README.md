@@ -24,13 +24,15 @@
 
 [1] Introduction 
 
-     Scope 
+[1.1] Scope 
      
-     Type Conventions 
+[3]   Type Conventions 
      
-[2]  Research
+[4]  Research
 
-     References 
+[5] References 
+
+[6]
 
 [3] Target System 
 
