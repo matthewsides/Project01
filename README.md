@@ -17,7 +17,7 @@
 
 
 
-
+![Alt text](http://easysmart.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/w/sw519_classic-wireless-air-mouse-with-trace-ball.jpg "Optional title")
 
 
 # Table Of Contents
@@ -65,10 +65,10 @@ This segment marks
 N/A
 
 
-## 3. Target System
+### [6] Target System
 TraceBall will be produced for the following platforms: Windows all versions running on HTML 5 (Internet Browser), Chrome and Explorer, written in Java Script though the ID Notepad. This Documentation is primary concerned with the internet browsers chrome and explorer though maybe expanded and branch out to other browsers at a later date.
 
-## 4. Specification 
+### [7] Specification 
 
 ### 4.1 High Level Description 
 
