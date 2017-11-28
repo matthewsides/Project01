@@ -24,19 +24,19 @@
 
 [1] Introduction 
 
-[2]
+[2] Scope
+
+[3] Type Conventions
      
-[3]  Research
+[4]  Research
 
-[3] References 
-
-[4]
+[5] References 
 
 [5] Target System 
 
 [6] Specification 
 
-[7]High Level Description 
+[7] High Level Description 
 
 [8] Project User Stories
 
@@ -57,6 +57,8 @@ Things that have been discussed in a meeting are presented in this document with
 Things that have not been offically agreed on but which are suggested by the author are presented with asterisks, like this (*),being marked as omitted until it has been agreed upon that it may be of use or implemented.
 
 ### [4] Research
+
+This segment marks 
 
 ### [5] References
 
