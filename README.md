@@ -24,9 +24,6 @@
 
 [1] Introduction 
 
-[1.1] Scope 
-     
-[1.2] Type Conventions 
      
 [2]  Research
 
@@ -48,11 +45,11 @@
 
 This document specifies a design for the conceptual features and mechanics (gameplay) of a game with the provisional title “TraceBall” . It is based on elements found within a given brief specifying for a game based around a square following a mouse on screen.  
 
-### [1.1] Scope
+### Scope
 
 This documentation is intended to be read by programmers, artists and producers involved in the design implementation and testing of the HTML internet game "TraceBall".
 
-### [1.2] Type Conventions
+### Type Conventions
 
 Things that have been discussed in a meeting are presented in this document with no asterisks.
 
