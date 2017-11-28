@@ -1,4 +1,5 @@
-# | Project1- TraceBall |
+![Alt text](/relative/path/to/ TraceBallProject1Logo.png?raw=true "Optional Title")
+
      Version 2.00
      28 November 2017
      
