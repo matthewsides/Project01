@@ -15,11 +15,6 @@
 |                                                                                       |                         
 
 
-
-
-![Alt text](http://easysmart.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/w/sw519_classic-wireless-air-mouse-with-trace-ball.jpg "Optional title")
-
-
 # Table Of Contents
 
 [1] Introduction 
