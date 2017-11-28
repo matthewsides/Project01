@@ -1,7 +1,7 @@
 ![Alt text](https://github.com/matthewsides/Project01-TraceBall/blob/master/traceballprojectlogo.png?raw=true "Optional Title")
 
-  Version 1.01  
-  28 November 2017
+ | Version 1.01    |
+ | 28 November 2017|
      
 
 # Revision List
