@@ -1,6 +1,6 @@
 # | Project1- TraceBall |
-     Version 1.00
-     2017
+     Version 2.00
+     28 November 2017
      
 
 # Revision List
@@ -8,7 +8,7 @@
 | Version     | Author          | Date                 | Comments                       |
 |-------------|-----------------|----------------------|--------------------------------|
 | 1.00        |  Matthew Sides  |              2017    | Initial Version                |
-|             |                 |                      |                                | 
+| 1.01        |  Matthew Sides  |              2017    |                                | 
 |             |                 |                      |                                | 
 |             |                 |                      |                                |
 |             |                 |                      |                                |
@@ -22,21 +22,23 @@
 
 # Table Of Contents
 
-1. Introduction ..........
+[1] Introduction 
 
-1.1 Scope ..........
+     Scope 
+     
+     Type Conventions 
+     
+[2]  Research
 
-1.2 Type Conventions ..........
+     References 
 
-2. References ..........
+[3] Target System 
 
-3. Target System ..........
+[4] Specification 
 
-4. Specification ..........
+     High Level Description 
 
-4.1 High Level Description ..........
-
-5. Project User Stories
+[5] Project User Stories
 
 
 
@@ -44,11 +46,11 @@
 
 This document specifies a design for the conceptual features and mechanics (gameplay) of a game with the provisional title “TraceBall” . It is based on elements found within a given brief specifying for a game based around a square following a mouse on screen.  
 
-### 1.1 Scope
+### Scope
 
 This documentation is intended to be read by programmers, artists and producers involved in the design implementation and testing of the HTML internet game "TraceBall".
 
-### 1.2 Type Conventions
+### Type Conventions
 
 Things that have been discussed in a meeting are presented in this document with no asterisks.
 
