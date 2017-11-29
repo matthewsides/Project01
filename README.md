@@ -49,7 +49,9 @@
 
 [15] Debugging process and debugging facilities in your chosen IDE
 
-[16] Written algorithm and Code variant relationship
+[16] Implementation of an algorithm in a suitable language
+
+[17] Written algorithm and Code variant relationship
 
 
 ### [1] Introduction
@@ -150,7 +152,11 @@ The IDE ( Integrated Development Environment) used was notepad, though notepad i
 
 The IDE or notepad does not have any debugging facilities,but the debugging proccess has to be done manually either scrolling through code to locate and fix the problem or using preset code that is indented into the program and debugs the code, finding the problem for it to be solved (fixed).
 
-### [16] Written algorithm and Code variant relationship
+### [16] Implementation of an algorithm in a suitable language
+
+The algorithm in this precedent was displayed through a flow chart and implemented into a suitable language (High-Level Language), being Javascript in this instance, with the code structure being based around the flowchart. The code once translated to High Level Language (JavaScipt) was then compiled using Notepad which is easier than some editors as Notepad does not add formatting codes which made it easier to compile. Once the code was translated from High level to Machine code and compiled, etc. the file after being saved as an HTML file was able to display output when the file was clicked and a window opened. 
+
+### [17] Written algorithm and Code variant relationship
 
 The relationship between the written algorithm and the code variant is that the algorithm, in this instance being represented in a flow chart diagram, shows the workflow or process of how the application should function or work, whilst the code variant is essentially the algorithm translated or converted into High-Level-Language (in this instance javascript) as to the contrasting differences between how they function since the algorithm is the basis on which the code variant is structured around and the structure or workflow was followed the compiled machine code and outcome met the structure of the algorithm with the exception of an end state displayed in the flowchart but not implemented in the code as after a collision unlike as is stated in the flow chart, rather than having an end state the postion of the NPC is merely reset. 
 
