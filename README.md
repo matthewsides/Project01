@@ -43,15 +43,17 @@
 
 [12] Flow Chart
 
-[13] Process of implementation Algorithm
+[13] Cordinates System
 
-[14] Description of IDE used and features it provided
+[14] Process of implementation Algorithm
 
-[15] Debugging process and debugging facilities in your chosen IDE
+[15] Description of IDE used and features it provided
 
-[16] Implementation of an algorithm in a suitable language
+[16] Debugging process and debugging facilities in your chosen IDE
 
-[17] Written algorithm and Code variant relationship
+[17] Implementation of an algorithm in a suitable language
+
+[18] Written algorithm and Code variant relationship
 
 
 ### [1] Introduction
@@ -137,26 +139,27 @@ I would like to be able to get feedback on the amount of lives I have concurrent
 ![Alt text](https://github.com/matthewsides/Project01-TraceBall/blob/master/FlowChartP1.jpg?raw=true "Optional Title")
 
 
+### [13] Cordinates System
 
-### [13] Process of implementation Algorithm
+### [14] Process of implementation Algorithm
 
 The HTML page was first developed, whilst a canvas was thereafter defined, then another square was defined within the canvas. Furthermore the mouse was is then required to be tracked on the screen to the canvas, whilst the cords of the square are also needed to be retrieved. The cords then need to be compared minus or adding onto the cords of the square if certain conditions are met, including a timer to ensure that the square movement is smooth and doesnt look like its teleporting around or about the page or screen. Inaddition the square and mouse then need to have a defined area or set cords or x and y with a conditional statement comparing them seeing whether the cords are eqaul or enroach on one another.Moreover adding at the end of the statement to minus lives, creating or defining a lives variable where if there is collision a life or numerical value is subtracted or taken away from the variable. While the code is held or indented within a loop where if certain conditions are met i.e: the user runs out of lives or the variable lives hits a certain defined numerical value the game ends.
 
-### [14] Description of IDE used and features it provided
+### [15] Description of IDE used and features it provided
 
 The IDE ( Integrated Development Environment) used was notepad, though notepad is a questionable IDE as it has no redefining features and doesnt provide any comprehensive facilities except an area to write code and save the file in relation to the type of code written.
 
 ![Alt text](https://github.com/matthewsides/Project01-TraceBall/blob/master/IDENotepad.png?raw=true "Optional Title")
 
-### [15] Debugging process and debugging facilities in your chosen IDE
+### [16] Debugging process and debugging facilities in your chosen IDE
 
 The IDE or notepad does not have any debugging facilities,but the debugging proccess has to be done manually either scrolling through code to locate and fix the problem or using preset code that is indented into the program and debugs the code, finding the problem for it to be solved (fixed).
 
-### [16] Implementation of an algorithm in a suitable language
+### [17] Implementation of an algorithm in a suitable language
 
 The algorithm in this precedent was displayed through a flow chart and implemented into a suitable language (High-Level Language), being Javascript in this instance, with the code structure being based around the flowchart. The code once translated to High Level Language (JavaScipt) was then compiled using Notepad which is easier than some editors as Notepad does not add formatting codes which made it easier to compile. Once the code was translated from High level to Machine code and compiled, etc. the file after being saved as an HTML file was able to display output when the file was clicked and a window opened. 
 
-### [17] Written algorithm and Code variant relationship
+### [18] Written algorithm and Code variant relationship
 
 The relationship between the written algorithm and the code variant is that the algorithm, in this instance being represented in a flow chart diagram, shows the workflow or process of how the application should function or work, whilst the code variant is essentially the algorithm translated or converted into High-Level-Language (in this instance javascript) as to the contrasting differences between how they function since the algorithm is the basis on which the code variant is structured around and the structure or workflow was followed the compiled machine code and outcome met the structure of the algorithm with the exception of an end state displayed in the flowchart but not implemented in the code as after a collision unlike as is stated in the flow chart, rather than having an end state the postion of the NPC is merely reset. 
 
