@@ -141,6 +141,13 @@ I would like to be able to get feedback on the amount of lives I have concurrent
 
 ### [13] Cordinates System
 
+The cordinate system consisted of or relates to the formation of multiple shapes on screen, through defining pre-set X and Y variables that were then used inconjunction with a similiar methodlogy to Pythagorean theorem to measure the distance with a fill function thus filling the internal area making the shape appear visible as merely measuring the distance and forming a shape will not actually present an asthetical output. 
+
+Thereafter the shapes were then used inset to the cordinates of the mouse on screen 
+
+
+essentially relates to the formation of a shape which held pre-set or determined x and y cords that, through using a similiar methodology to the Pythagorean theorem rom (formulae) were   connected together and were filled 
+You used coordinates to create a shape (or image) and made this shape (or image) follow the mouse. The mouse is the input and the shape (or image) is the output element. And you had to use coordinates to implement them. All you need to do is describe this process and provide a link to your project 1.
 ### [14] Process of implementation Algorithm
 
 The HTML page was first developed, whilst a canvas was thereafter defined, then another square was defined within the canvas. Furthermore the mouse was is then required to be tracked on the screen to the canvas, whilst the cords of the square are also needed to be retrieved. The cords then need to be compared minus or adding onto the cords of the square if certain conditions are met, including a timer to ensure that the square movement is smooth and doesnt look like its teleporting around or about the page or screen. Inaddition the square and mouse then need to have a defined area or set cords or x and y with a conditional statement comparing them seeing whether the cords are eqaul or enroach on one another.Moreover adding at the end of the statement to minus lives, creating or defining a lives variable where if there is collision a life or numerical value is subtracted or taken away from the variable. While the code is held or indented within a loop where if certain conditions are met i.e: the user runs out of lives or the variable lives hits a certain defined numerical value the game ends.
